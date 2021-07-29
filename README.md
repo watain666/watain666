@@ -11,11 +11,6 @@ Hi! I'm TiâuÛi Lâu a passionate Backend web developer from Taiwan.
 <a href="https://github.com/watain666">
   <img align="center" src='https://github-readme-stats-watain.vercel.app/api/?username=watain666&theme=nord&show_icons=true&include_all_commits=true&line_height=20&hide_border=true'>
 </a>
-<a href="https://github.com/watain666">
-  <img align="center" src="https://github-readme-stats.watain.vercel.app/api/top-langs/?username=watain666&theme=nord&layout=compact&hide_border=true">
-</a>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ### Languages / Tools:
 
