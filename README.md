@@ -9,7 +9,7 @@ Hi! I'm TiâuÛi Lâu a passionate Backend web developer from Taiwan.
 - 💬 Ask me about anything [here](https://github.com/watain666/watain666/issues)
 
 <a href="https://github.com/watain666">
-  <img align="center" src='https://github-readme-stats-watain.vercel.app/api/?username=watain666&theme=nord&show_icons=true&include_all_commits=true&line_height=20&hide_border=true'>
+  <img align="center" src='https://github-readme-stats-watain.vercel.app/api/?username=watain666&count_private=true&theme=nord&show_icons=true&include_all_commits=true&line_height=20&hide_border=true'>
 </a>
 
 ### Languages / Tools:
