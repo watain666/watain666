@@ -5,7 +5,6 @@
 ### What's up! 👋 I'm [TiâuÛi Lâu!](https://watain666.github.io)
 
 Hi! I'm TiâuÛi Lâu a passionate Backend web developer from Taiwan.
-- 👯 I'm looking to collaborate on [ChhoeTaigiChromeExtension](https://github.com/ChhoeTaigi/ChhoeTaigiChromeExtension)
 - 💬 Ask me about anything [here](https://github.com/watain666/watain666/issues)
 
 ### Languages / Tools:
