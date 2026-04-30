@@ -2,7 +2,7 @@
     <img width="100%" height="100%" src="https://i.imgur.com/efFJRDu.jpg" alt="smudge"/>
 </div>
 
-### What's up! 👋 I'm [TiâuÛi Lâu!](https://watain666.github.io)
+### What's up! 👋
 
 Hi! I'm TiâuÛi Lâu. I build robust backend solutions from Taiwan.
 - 💬 Ask me about anything [here](https://github.com/watain666/watain666/issues)
