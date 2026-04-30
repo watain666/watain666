@@ -4,7 +4,7 @@
 
 ### What's up! 👋 I'm [TiâuÛi Lâu!](https://watain666.github.io)
 
-Hi! I'm TiâuÛi Lâu a passionate Backend web developer from Taiwan.
+Hi! I'm TiâuÛi Lâu. I build robust backend solutions from Taiwan.
 - 💬 Ask me about anything [here](https://github.com/watain666/watain666/issues)
 
 ### Languages / Tools:
